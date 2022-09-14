@@ -27,6 +27,7 @@ export default function Index() {
           </a>
         </li>
       </ul>
+      <h2>Test push deploy: 14:58</h2>
     </div>
   );
 }
